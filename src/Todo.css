@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0
+}
+.header{
+    background-color: black;
+    height: 80px;
+    justify-content: center;
+    }
+h1{
+    position: absolute;
+    color: aliceblue;
+    font-size: 8vh;
+    padding: 4px;
+    margin-left: 45%;
+    margin-right: 50%;
+
+
+}

@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "title": "CopyRight Automatico",
+      "tags": "[JS]"
+    },
+    {
+      "title": "HtmlWebpackPlugin Multiples HTML files",
+      "tags": "[JS, webpack]"
+    },
+    {
+      "title": "react json",
+      "tags": "[JS, react]"
+    },{
+      "title": "CopyRight ",
+      "tags": "[JSx]"
+    },{
+      "title": "Automatico",
+      "tags": "[JSon]"
+    },{
+      "title": "CopyRight React",
+      "tags": "[JScript]"
+    },{
+      "title": "CopyRight jsx",
+      "tags": "[JavaScrtipt]"
+    },{
+      "title": "React Automatico",
+      "tags": "[JS]"
+    }
+  ]
+}

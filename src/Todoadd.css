@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0
+}
+.containers{
+    /* position: absolute; */
+    display: flex;
+    margin-top: 20px;
+    background-color: beige;
+    height: 60px;
+    width: 100%;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+.addhead{
+    padding: 14px;
+    font-size: 20px;
+}
+.addbtn{
+    padding: 14px;
+margin-left: 80%;
+font-size: 15px;
+
+}
+.table{
+    margin-top: 40px;
+}
