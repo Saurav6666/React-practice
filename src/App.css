@@ -1,11 +1,11 @@
-/* .App {
+.App {
   text-align: center;
   }
-
+/* 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
-}
+} */
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
@@ -26,7 +26,22 @@
 
 .App-link {
   color: #61dafb;
-} */
+}
+.grid{
+  max-width: 120rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1.6rem;
+}
+.card{
+  padding: 2em;
+  border: 1px solid #888;
+  text-align: center;
+
+}
+.read-the-doc{
+  color: #888;
+}
 
 @keyframes App-logo-spin {
   from {
